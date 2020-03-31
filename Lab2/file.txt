@@ -1,0 +1,4 @@
+Your surname is:arkavenko
+Your address is:lukasha 5
+Your digits are:0984659746
+The sum of the digits is:58
